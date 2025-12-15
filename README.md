@@ -1,1 +1,5 @@
-# Diabetes-Prediction-App
+The Diabetes Prediction App is an intelligent healthcare support system developed using Python, Machine Learning, and Streamlit. The app takes key health parameters such as age, glucose level, blood pressure, BMI, insulin level, and family history as inputs from the user. Based on these values, a trained machine learning model predicts whether the person is diabetic or non-diabetic.
+
+The application uses a well-known diabetes dataset (such as the PIMA Indians Diabetes dataset) to train the model. Data preprocessing techniques like handling missing values, feature scaling, and encoding are applied to improve accuracy. A suitable classification algorithm (Logistic Regression, Random Forest, or Support Vector Machine) is used for prediction.
+
+The user interface is simple and interactive, allowing users to enter values through input fields or sliders. Once the user submits the data, the model processes the input and instantly displays the prediction result along with a clear message. This app can be used for educational purposes, mini projects, and healthcare awareness, helping users understand the importance of early diagnosis and lifestyle management.
